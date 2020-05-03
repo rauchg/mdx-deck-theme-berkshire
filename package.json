@@ -1,0 +1,7 @@
+{
+  "name": "mdx-deck-theme-berkshire",
+  "version": "1.0.2",
+  "license": "MIT",
+  "main": "index.js",
+  "files": ["index.js"]
+}
